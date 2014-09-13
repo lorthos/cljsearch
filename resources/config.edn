@@ -1,0 +1,4 @@
+{
+  :stop-words       #{"a" "the" "is" "and" "in" "with" "on" "to" "of" ""}
+  :number-of-shards 3                                      ;79 41 5 ...
+  }
